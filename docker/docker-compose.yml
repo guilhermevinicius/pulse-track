@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: postgres:17.1-alpine
+    container_name: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: "pulse_track"
+      POSTGRES_PASSWORD: "pulse_track@pulse_track"
+      POSTGRES_DB: "pulse_track"
