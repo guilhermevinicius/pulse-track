@@ -39,8 +39,9 @@ O **Pulse Track** foi desenvolvido para facilitar a criação de enquetes e form
 ```bash
 git clone https://github.com/guilhermevinicius/pulse-track.git
 cd pulse-track
+```
 
-📌 Roadmap
+## 📌 Roadmap
 [x] Votação em tempo real
 
 [x] Dashboard com gráficos
@@ -51,5 +52,5 @@ cd pulse-track
 
 [ ] Exportação de resultados em CSV
 
-📬 Contato
-Guilherme Vinicius LinkedIn
+## 📬 Contato
+Guilherme Vinicius [LinkedIn](https://www.linkedin.com/in/guilherme-vinicius-ferreira)
