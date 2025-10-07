@@ -29,7 +29,7 @@ O **Pulse Track** foi desenvolvido para facilitar a criação de enquetes e form
 | Backend      | .NET                             |
 | Banco de Dados | PostgreSQL                     |
 | Autenticação | JWT                              |
-| Deploy       | Kubernets                        |
+| Deploy       | Docker, Kubernets                |
 
 ---
 
