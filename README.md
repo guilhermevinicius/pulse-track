@@ -41,6 +41,8 @@ git clone https://github.com/guilhermevinicius/pulse-track.git
 cd pulse-track
 ```
 
+---
+
 ## 📌 Roadmap
 [x] Votação em tempo real
 
@@ -51,6 +53,8 @@ cd pulse-track
 [ ] Login social (Google/GitHub)
 
 [ ] Exportação de resultados em CSV
+
+---
 
 ## 📬 Contato
 Guilherme Vinicius [LinkedIn](https://www.linkedin.com/in/guilherme-vinicius-ferreira)
